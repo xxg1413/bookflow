@@ -2,9 +2,7 @@
 
 Keep the books flowing
 
-【AI与安全】公众号: 一周一书专栏
-
-## 其他链接
+## 专栏外站链接
 
 - 知乎专栏: [BookFlow](https://zhuanlan.zhihu.com/bookflow)
 
