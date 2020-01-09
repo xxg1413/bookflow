@@ -10,6 +10,7 @@ Keep the books flowing
 
 ## 内容列表
 
+- [000.后面那些需要折腾的事](https://mp.weixin.qq.com/s/2Lx8Mori2caS9KXPkt--fw)
 - [001.重新理解创业](https://mp.weixin.qq.com/s/hZX42VNbj0zpy2tQtRTxug)
 - [002.说透中台](https://mp.weixin.qq.com/s/ueTvoCzsD_wNd3rjxmAyJw)
 - [003.XSS跨站脚本攻击剖析与防御](https://mp.weixin.qq.com/s/R12EvAyk2NByYsOH30AuOA)
