@@ -20,6 +20,7 @@ Keep the books flowing
 - [007.俞军产品方法论](https://mp.weixin.qq.com/s/buq6vvp5tIgrDMXdpMqmkg)
 - [008.技术与商业案例解读](https://mp.weixin.qq.com/s/EKRmWni9t_xhP785UKoX8A)
 - [009.机器学习实战：基于Sophon平台的机器学习理论与实践](https://mp.weixin.qq.com/s/bgCsPDaC5aKpxAoDVzTlqw)
+- [010.邱岳的产品手记](https://mp.weixin.qq.com/s/EQgopC1Sby6y3pcwWe1Ztg)
 
 
 #### 专栏外站链接
