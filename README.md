@@ -21,6 +21,8 @@ Keep the books flowing
 - [008.技术与商业案例解读](https://mp.weixin.qq.com/s/EKRmWni9t_xhP785UKoX8A)
 - [009.机器学习实战：基于Sophon平台的机器学习理论与实践](https://mp.weixin.qq.com/s/bgCsPDaC5aKpxAoDVzTlqw)
 - [010.邱岳的产品手记](https://mp.weixin.qq.com/s/EQgopC1Sby6y3pcwWe1Ztg)
+- [011.自然语言处理入门](https://mp.weixin.qq.com/s/B9DYDaKEWzKvVaZkSerGXg)
+- [012.微服务架构下的运维系统管理](https://mp.weixin.qq.com/s/xEdGu72EIE5_UA_U398cFQ)
 
 
 #### 专栏外站链接
@@ -28,6 +30,6 @@ Keep the books flowing
 - 知乎专栏: [BookFlow](https://zhuanlan.zhihu.com/bookflow)
 
 
-#### 公众号：AI与安全
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9kpvk6dhdj3076076mxn.jpg)
+#### 公众号：BookFlow
+![](https://tva1.sinaimg.cn/large/006tNbRwly1gbccrz050oj30by0by0tj.jpg)
 
