@@ -23,6 +23,8 @@ Keep the books flowing
 - [010.邱岳的产品手记](https://mp.weixin.qq.com/s/EQgopC1Sby6y3pcwWe1Ztg)
 - [011.自然语言处理入门](https://mp.weixin.qq.com/s/B9DYDaKEWzKvVaZkSerGXg)
 - [012.微服务架构下的运维系统管理](https://mp.weixin.qq.com/s/xEdGu72EIE5_UA_U398cFQ)
+- [013.智能运维AIOps](https://mp.weixin.qq.com/s/8Wkg5G2KeWpY4de8tW7bUQ)
+- [014.为什么现代C++值得你学习](https://mp.weixin.qq.com/s/AdJ4jRR6c59Ciq2Cy7pyzQ)
 
 
 #### 专栏外站链接
