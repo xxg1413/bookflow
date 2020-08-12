@@ -25,6 +25,9 @@ Keep the books flowing
 - [012.微服务架构下的运维系统管理](https://mp.weixin.qq.com/s/xEdGu72EIE5_UA_U398cFQ)
 - [013.智能运维AIOps](https://mp.weixin.qq.com/s/8Wkg5G2KeWpY4de8tW7bUQ)
 - [014.为什么现代C++值得你学习](https://mp.weixin.qq.com/s/AdJ4jRR6c59Ciq2Cy7pyzQ)
+- [015.你为什么需要深度工作](https://mp.weixin.qq.com/s/bymPEXc2nO6cTin_xcxq7A)
+- [016.你想要的摄影入门课](https://mp.weixin.qq.com/s/xefG18TVIsnLPdsDX8sD3Q)
+- [017.黑进你的生活](https://mp.weixin.qq.com/s/AtmecWoU4N2X9ml1UOQbcg)
 
 
 #### 专栏外站链接
@@ -32,6 +35,6 @@ Keep the books flowing
 - 知乎专栏: [BookFlow](https://zhuanlan.zhihu.com/bookflow)
 
 
-#### 公众号：BookFlow
-![](https://tva1.sinaimg.cn/large/006tNbRwly1gbccrz050oj30by0by0tj.jpg)
+#### 公众号：P小二
+![](https://tva1.sinaimg.cn/large/00831rSTly1gcvj9w1tm8j309k09kt8n.jpg)
 
