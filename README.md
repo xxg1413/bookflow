@@ -7,6 +7,8 @@ Keep the books flowing
 
 [bookflow.app](https://bookflow.app) 
 
+[公众号目录](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwNzc4MDgwNQ==&action=getalbum&album_id=1345462282264051712&scene=173#wechat_redirect)
+
 
 ## 内容列表
 
@@ -28,11 +30,15 @@ Keep the books flowing
 - [015.你为什么需要深度工作](https://mp.weixin.qq.com/s/bymPEXc2nO6cTin_xcxq7A)
 - [016.你想要的摄影入门课](https://mp.weixin.qq.com/s/xefG18TVIsnLPdsDX8sD3Q)
 - [017.黑进你的生活](https://mp.weixin.qq.com/s/AtmecWoU4N2X9ml1UOQbcg)
+- [018.吴军的阅读与写作课](https://mp.weixin.qq.com/s/ImtqmpSU2oWr5mkliNQoCw)
+- [019.你为什么要学习Rust](https://mp.weixin.qq.com/s/WS2kikpuHKGxPJ_UBfYhgg)
+- [020.你的忙碌是为了什么](https://mp.weixin.qq.com/s/H7GJ_D1FRUwNIxWzSVdqCw)
 
 
 #### 专栏外站链接
 
 - 知乎专栏: [BookFlow](https://zhuanlan.zhihu.com/bookflow)
+- P小二博客: [BookFlow](https://pxiaoer.blog/category/bookflow/)
 
 
 #### 公众号：P小二
