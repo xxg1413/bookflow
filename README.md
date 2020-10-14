@@ -7,10 +7,10 @@ Keep the books flowing
 
 [bookflow.app](https://bookflow.app) 
 
-[公众号目录](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwNzc4MDgwNQ==&action=getalbum&album_id=1345462282264051712&scene=173#wechat_redirect)
-
 
 ## 内容列表
+
+[公众号目录](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwNzc4MDgwNQ==&action=getalbum&album_id=1345462282264051712&scene=173#wechat_redirect)
 
 - [000.后面那些需要折腾的事](https://mp.weixin.qq.com/s/2Lx8Mori2caS9KXPkt--fw)
 - [001.重新理解创业](https://mp.weixin.qq.com/s/hZX42VNbj0zpy2tQtRTxug)
