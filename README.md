@@ -33,6 +33,15 @@ Keep the books flowing
 - [018.吴军的阅读与写作课](https://mp.weixin.qq.com/s/ImtqmpSU2oWr5mkliNQoCw)
 - [019.你为什么要学习Rust](https://mp.weixin.qq.com/s/WS2kikpuHKGxPJ_UBfYhgg)
 - [020.你的忙碌是为了什么](https://mp.weixin.qq.com/s/H7GJ_D1FRUwNIxWzSVdqCw)
+- [021.莫言《晚熟的人》](https://mp.weixin.qq.com/s/BneMKSfRSbqCFNLXRNZKMw)
+- [022.村上春树《弃猫》](https://mp.weixin.qq.com/s/GiA7BC6K6WFkOJ9XDGstjw)
+- [023.你的《7天创业指南》](https://mp.weixin.qq.com/s/tX6V-7hLpJL9J_UtZ02j8A)
+- [024. 快来，数学天才教你学数学](https://mp.weixin.qq.com/s/jrgJH13Ihk573NmskBmRYw)
+- [025.你了解AI安全吗？](https://mp.weixin.qq.com/s/2-ZfPHc8yH0aHNoRdYilVQ)
+- [026.你的第一本理财书——《富爸爸穷爸爸》](https://mp.weixin.qq.com/s/kCxS4qzCPfLJ8dV29prnZg)
+- [027.三岛笔下的纯美爱情故事——《潮骚》](https://mp.weixin.qq.com/s/c5RUhVBS2rrFyTAFrrhyEg)
+- [028.自信是一种天赋，叫我第一名！](https://mp.weixin.qq.com/s/LpdNb7nqdOZmjUinD5tCmw)
+
 
 
 #### 专栏外站链接
