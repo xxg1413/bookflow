@@ -44,6 +44,9 @@ Keep the books flowing
 | 029 | [纳瓦尔宝典：财富与幸福指南](https://web.okjike.com/originalPost/62a9ea93eab55b0a2e9a677c) | ⭐⭐⭐⭐ | 自我成长 |
 | 030 | [有钱人和你想得不一样](https://web.okjike.com/originalPost/62ab2fde7891f09e79b193cf) | ⭐⭐⭐⭐ | 自我成长，财商教育|
 | 031 | [成长第二曲线](https://web.okjike.com/originalPost/62ac8cf20d0f59604e209087) | ⭐⭐⭐⭐⭐ | 自我成长|
+| 032 | [每周工作4小时](https://web.okjike.com/originalPost/62adf1b236a68df9eabadc9e) | ⭐⭐ | 自我成长|
+| 033 | [非线性成长](https://web.okjike.com/originalPost/62af27821db0c38bc3ec3666) | ⭐⭐⭐⭐ | 自我成长|
+| 034 | [数学之美](https://web.okjike.com/originalPost/62b06b286825c2360eab36d1) | ⭐⭐⭐⭐⭐ | 数学，NLP|
 
 
 #### 专栏外站链接
