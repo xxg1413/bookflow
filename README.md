@@ -47,6 +47,13 @@ Keep the books flowing
 | 032 | [每周工作4小时](https://web.okjike.com/originalPost/62adf1b236a68df9eabadc9e) | ⭐⭐ | 自我成长|
 | 033 | [非线性成长](https://web.okjike.com/originalPost/62af27821db0c38bc3ec3666) | ⭐⭐⭐⭐ | 自我成长|
 | 034 | [数学之美](https://web.okjike.com/originalPost/62b06b286825c2360eab36d1) | ⭐⭐⭐⭐⭐ | 数学，NLP|
+| 035 | [程序员修炼之道](https://web.okjike.com/originalPost/62b1a2db7db2c5099750adb6) | ⭐⭐⭐⭐⭐ | 程序员，自我成长|
+| 036 | [沉思录](https://web.okjike.com/originalPost/62b32ebcd85791b65869ca35) | ⭐⭐⭐⭐⭐ | 哲学|
+| 037 | [模型思维](https://web.okjike.com/originalPost/62b47ad325bd79f175a3168d) | ⭐⭐⭐⭐⭐ | 思维模型 |
+| 038 | [超效率手册](https://web.okjike.com/originalPost/62b5d5b8fcbed5738c90e007) | ⭐⭐ | 自我成长|
+| 039 | [高级零工](https://web.okjike.com/originalPost/62b72b1b057d8df28583d8f5) | ⭐⭐⭐ | 职业规划|
+| 040 | [为什么精英都是时间控](https://web.okjike.com/originalPost/62b87dbc057d8df2851e76ad) | ⭐⭐⭐⭐ | 时间管理|
+| 041 | [小岛经济学](https://web.okjike.com/originalPost/62b9cbe6fcbed5738c5b46a2) | ⭐⭐⭐ | 经济学|
 
 
 #### 专栏外站链接
