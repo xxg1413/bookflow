@@ -54,6 +54,9 @@ Keep the books flowing
 | 039 | [高级零工](https://web.okjike.com/originalPost/62b72b1b057d8df28583d8f5) | ⭐⭐⭐ | 职业规划|
 | 040 | [为什么精英都是时间控](https://web.okjike.com/originalPost/62b87dbc057d8df2851e76ad) | ⭐⭐⭐⭐ | 时间管理|
 | 041 | [小岛经济学](https://web.okjike.com/originalPost/62b9cbe6fcbed5738c5b46a2) | ⭐⭐⭐ | 经济学|
+| 042 | [学会变现](https://web.okjike.com/originalPost/62bb23254fa99449a318cc03) | ⭐⭐⭐ | 自我成长|
+| 043 | [硅谷钢铁侠](https://web.okjike.com/originalPost/62bc725c057d8df285e1b58c) | ⭐⭐⭐⭐⭐ | 传记 |
+| 044 | [心力](https://web.okjike.com/originalPost/62bdc13d394a9e6bdc2994a0) | ⭐⭐⭐⭐ | 创业|
 
 
 #### 专栏外站链接
