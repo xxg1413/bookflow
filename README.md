@@ -57,7 +57,6 @@ Keep the books flowing
 | 042 | [学会变现](https://web.okjike.com/originalPost/62bb23254fa99449a318cc03) | ⭐⭐⭐ | 自我成长|
 | 043 | [硅谷钢铁侠](https://web.okjike.com/originalPost/62bc725c057d8df285e1b58c) | ⭐⭐⭐⭐⭐ | 传记 |
 | 044 | [心力](https://web.okjike.com/originalPost/62bdc13d394a9e6bdc2994a0) | ⭐⭐⭐⭐ | 创业|
-
 | 045 | [API安全技术与实战](https://web.okjike.com/originalPost/62bf01673bb6d65b3734612e) | ⭐⭐⭐ | API安全 |
 | 046 | [低风险创业](https://web.okjike.com/originalPost/62c0535e13392561e4ec7bbf) | ⭐⭐⭐ | 创业|
 | 047 | [如何成为一个会读书的人](https://web.okjike.com/originalPost/62c1aefff2ea96cb164bf3d8) | ⭐⭐⭐ | 读书方法 |
