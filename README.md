@@ -65,7 +65,7 @@ Keep the books flowing
 | 050 | [详谈-杜国楹](https://web.okjike.com/originalPost/62c5831564e26c298c78430b) | ⭐⭐⭐ | 访谈 |
 | 051 | [洞见](https://web.okjike.com/originalPost/62c6f62620c97a5834e92f09) | ⭐⭐⭐⭐⭐  | 进化心理学 |
 | 052 | [马逊编年史](https://web.okjike.com/originalPost/62c8371cbc1e62b1f04ae12e) | ⭐⭐⭐ | 商业|
-| 053 | [时间的秩序](https://web.okjike.com/originalPost/62c948d63b18de011c0b5226) | ⭐⭐⭐⭐ | 物理科普 |
+| 053 | [时间的秩序](https://web.okjike.com/originalPost/62c948d63b18de011c0b5226) | ⭐⭐⭐⭐⭐ | 物理科普 |
 
 #### 专栏外站链接
 
