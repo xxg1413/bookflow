@@ -62,6 +62,10 @@ Keep the books flowing
 | 047 | [如何成为一个会读书的人](https://web.okjike.com/originalPost/62c1aefff2ea96cb164bf3d8) | ⭐⭐⭐ | 读书方法 |
 | 048 | [乡村教师](https://web.okjike.com/originalPost/62c2ed6313392561e410f2e0) | ⭐⭐⭐⭐⭐ | 科幻小说 |
 | 049 | [第一人称单数](https://web.okjike.com/originalPost/62c440d720c97a5834b3131c) | ⭐⭐⭐⭐ | 小说|
+| 050 | [详谈-杜国楹](https://web.okjike.com/originalPost/62c5831564e26c298c78430b) | ⭐⭐⭐ | 访谈 |
+| 051 | [洞见](https://web.okjike.com/originalPost/62c6f62620c97a5834e92f09) | ⭐⭐⭐⭐⭐  | 进化心理学 |
+| 052 | [马逊编年史](https://web.okjike.com/originalPost/62c8371cbc1e62b1f04ae12e) | ⭐⭐⭐ | 商业|
+| 053 | [时间的秩序](https://web.okjike.com/originalPost/62c948d63b18de011c0b5226) | ⭐⭐⭐⭐ | 物理科普 |
 
 #### 专栏外站链接
 
