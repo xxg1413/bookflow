@@ -66,6 +66,11 @@ Keep the books flowing
 | 051 | [洞见](https://web.okjike.com/originalPost/62c6f62620c97a5834e92f09) | ⭐⭐⭐⭐⭐  | 进化心理学 |
 | 052 | [马逊编年史](https://web.okjike.com/originalPost/62c8371cbc1e62b1f04ae12e) | ⭐⭐⭐ | 商业|
 | 053 | [时间的秩序](https://web.okjike.com/originalPost/62c948d63b18de011c0b5226) | ⭐⭐⭐⭐⭐ | 物理科普 |
+| 054 | [AI未来进行式](https://web.okjike.com/originalPost/62caed95ac44c2672ba34be4) | ⭐⭐⭐⭐⭐ | AI科普 |
+| 055 | [Web安全之机器学习入门](https://web.okjike.com/originalPost/62cc36d2e13e61e78bd11e13) | ⭐⭐ | AI安全 |
+| 056 | [Web安全之深度学习实战](https://web.okjike.com/originalPost/62cd8686d0e7dbce4213bcc2) | ⭐⭐ | AI安全 |
+| 057 | [Web安全之强化学习与GAN](https://web.okjike.com/originalPost/62cedcc19e9ddfc1cbf50f7d) | ⭐⭐ | AI安全 |
+| 058 | [AI安全之对抗样本入门](https://web.okjike.com/originalPost/62cff754100bbd18399ed2ad) | ⭐⭐ | AI安全 |
 
 #### 专栏外站链接
 
