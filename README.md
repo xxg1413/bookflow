@@ -71,6 +71,13 @@ Keep the books flowing
 | 056 | [Web安全之深度学习实战](https://web.okjike.com/originalPost/62cd8686d0e7dbce4213bcc2) | ⭐⭐ | AI安全 |
 | 057 | [Web安全之强化学习与GAN](https://web.okjike.com/originalPost/62cedcc19e9ddfc1cbf50f7d) | ⭐⭐ | AI安全 |
 | 058 | [AI安全之对抗样本入门](https://web.okjike.com/originalPost/62cff754100bbd18399ed2ad) | ⭐⭐ | AI安全 |
+| 059 | [Rasa实战](https://web.okjike.com/originalPost/62d17ddd607b66816db84716) | ⭐⭐⭐ | chatbot |
+| 060 | [最重要的事，只有一件](https://web.okjike.com/originalPost/62d2ded6c0223ae247413a2a) | ⭐⭐⭐⭐ | 自我成长 |
+| 061 | [Web之困](https://web.okjike.com/originalPost/62d4246338e922818a727e61) | ⭐⭐⭐⭐⭐ | Web安全 |
+| 062 | [如何成为讲话有趣的人](https://web.okjike.com/originalPost/62d56b93476d008e51bc13df) | ⭐⭐⭐⭐  |  自我成长 |
+| 063 | [SQL注入攻击与防御](https://web.okjike.com/originalPost/62d6c83598ada74367987c68) | ⭐⭐⭐⭐ | Web安全 |
+| 064 | [Python黑帽子](https://web.okjike.com/originalPost/62d800bd7fa7eb3b69ba6831) | ⭐⭐⭐ | Python |
+
 
 #### 专栏外站链接
 
