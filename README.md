@@ -77,7 +77,15 @@ Keep the books flowing
 | 062 | [如何成为讲话有趣的人](https://web.okjike.com/originalPost/62d56b93476d008e51bc13df) | ⭐⭐⭐⭐  |  自我成长 |
 | 063 | [SQL注入攻击与防御](https://web.okjike.com/originalPost/62d6c83598ada74367987c68) | ⭐⭐⭐⭐ | Web安全 |
 | 064 | [Python黑帽子](https://web.okjike.com/originalPost/62d800bd7fa7eb3b69ba6831) | ⭐⭐⭐ | Python |
-
+| 065 | [模糊测试-强制发掘安全漏洞的利器](https://web.okjike.com/originalPost/62d94bd087ca8fbd1c3ae490) | ⭐⭐⭐⭐ | 安全 |
+| 066 | [Web前端黑客技术揭秘](https://web.okjike.com/originalPost/62daadebaa2677e53421454a) | ⭐⭐⭐ | Web安全 |
+| 067 | [Linux二进制分析](https://web.okjike.com/originalPost/62dc0e2cf092778410d36b1d) | ⭐⭐⭐⭐ | 安全 |
+| 068 | [有趣的二进制](https://web.okjike.com/originalPost/62dd6416fdb7b727b8f05f53) | ⭐⭐⭐ | 安全 |
+| 069 | [Web攻防之业务安全指南](https://web.okjike.com/originalPost/62deb6cc85510d401dc675d2) | ⭐⭐ | 安全 |
+| 070 | [Web漏洞防护](https://web.okjike.com/originalPost/62dfd48e289cd24e21fc620b) | ⭐⭐⭐ | 安全 |
+| 071 | [逆向工程核心原理](https://web.okjike.com/originalPost/62e158288a9205a2296e5ef4) | ⭐⭐⭐⭐⭐ | 安全 |
+| 072 | [黑客秘笈-渗透测试实用指南](https://web.okjike.com/originalPost/62e293b5fcb066c1c77161e8) | ⭐⭐⭐ | 安全 |
+| 073 | [无线电安全攻防大揭秘](https://web.okjike.com/originalPost/62e3e293afe605d7c5523720) | ⭐⭐⭐⭐ | 安全 |
 
 #### 专栏外站链接
 
