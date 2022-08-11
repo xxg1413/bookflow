@@ -96,6 +96,9 @@ Keep the books flowing
 | 081 | [秒赞](https://web.okjike.com/originalPost/62ee89dfed20d363a25d717f) | ⭐⭐⭐⭐⭐ | 营销 |
 | 082 | [假如真有时光机](https://web.okjike.com/originalPost/62efd9be2bfc336386c627c8) | ⭐⭐⭐⭐⭐ | 散文 |
 | 083 | [目标顺序法](https://web.okjike.com/originalPost/62f1321d85510d401da7b38a) | ⭐⭐⭐⭐ | 个人成长 |
+| 084 | [你所知道99%的创业知识都是错的](https://web.okjike.com/originalPost/62f2763642aa6b22f79f16cb) | ⭐⭐⭐⭐ | 创业 |
+| 085 | [副业挣钱之道](https://web.okjike.com/originalPost/62f3d2dfbcf0367497cee2ac) | ⭐⭐⭐ | 创业 |
+
 
 #### 专栏外站链接
 
