@@ -86,6 +86,16 @@ Keep the books flowing
 | 071 | [逆向工程核心原理](https://web.okjike.com/originalPost/62e158288a9205a2296e5ef4) | ⭐⭐⭐⭐⭐ | 安全 |
 | 072 | [黑客秘笈-渗透测试实用指南](https://web.okjike.com/originalPost/62e293b5fcb066c1c77161e8) | ⭐⭐⭐ | 安全 |
 | 073 | [无线电安全攻防大揭秘](https://web.okjike.com/originalPost/62e3e293afe605d7c5523720) | ⭐⭐⭐⭐ | 安全 |
+| 074 | [互联网企业安全高级指南](https://web.okjike.com/originalPost/62e550d908f7a6218dcc55cd) | ⭐⭐⭐⭐ | 安全 |
+| 075 | [数据安全-架构设计与实战](https://web.okjike.com/originalPost/62e6981685510d401d959c1f) | ⭐⭐⭐⭐ | 安全 |
+| 076 | [物联网安全](https://web.okjike.com/originalPost/62e7f3a2b4dd6d3757761274) | ⭐⭐⭐ | 安全 |
+| 077 | [大型互联网企业安全架构](https://web.okjike.com/originalPost/62e9258085510d401dd6f39d) | ⭐⭐⭐ | 安全 |
+| 078 | [云安全-安全即服务](https://web.okjike.com/originalPost/62ea99282e55425e204eafcc) | ⭐⭐⭐⭐ | 安全 |
+| 079 | [疯传](https://web.okjike.com/originalPost/62ebe462ed20d363a217f67f) | ⭐⭐⭐⭐⭐ | 营销 |
+| 080 | [Salesforce传奇](https://web.okjike.com/originalPost/62ed3921ef5cb07b22290807) | ⭐⭐⭐⭐ | 创业 |
+| 081 | [秒赞](https://web.okjike.com/originalPost/62ee89dfed20d363a25d717f) | ⭐⭐⭐⭐⭐ | 营销 |
+| 082 | [假如真有时光机](https://web.okjike.com/originalPost/62efd9be2bfc336386c627c8) | ⭐⭐⭐⭐⭐ | 散文 |
+| 083 | [目标顺序法](https://web.okjike.com/originalPost/62f1321d85510d401da7b38a) | ⭐⭐⭐⭐ | 个人成长 |
 
 #### 专栏外站链接
 
