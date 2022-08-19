@@ -98,6 +98,14 @@ Keep the books flowing
 | 083 | [目标顺序法](https://web.okjike.com/originalPost/62f1321d85510d401da7b38a) | ⭐⭐⭐⭐ | 个人成长 |
 | 084 | [你所知道99%的创业知识都是错的](https://web.okjike.com/originalPost/62f2763642aa6b22f79f16cb) | ⭐⭐⭐⭐ | 创业 |
 | 085 | [副业挣钱之道](https://web.okjike.com/originalPost/62f3d2dfbcf0367497cee2ac) | ⭐⭐⭐ | 创业 |
+| 086 | [在世界的枝头短暂停留](https://web.okjike.com/originalPost/62f51579560f33c1ad11dc37) | ⭐⭐ | 散文 |
+| 087 | [阿米巴模式](https://web.okjike.com/originalPost/62f66b95ef1e37c251265411) | ⭐⭐⭐ | 管理 |
+| 088 | [人工智能简史](https://web.okjike.com/originalPost/62f7c656560f33c1ad5842d4) | ⭐⭐⭐⭐⭐ | 技术史 |
+| 089 | [内向思考](https://web.okjike.com/originalPost/62f9106ca7dec05980fefaf7) | ⭐⭐⭐ | 个人成长 |
+| 090 | [计算机科学中的数学](https://web.okjike.com/originalPost/62fa6a24f14c0604e9b33745) | ⭐⭐⭐ | 数学 |
+| 091 | [事实](https://web.okjike.com/originalPost/62fbb97391db4d122c03e1d2) | ⭐⭐⭐⭐ | 个人成长 |
+| 092 | [技术陷阱](https://web.okjike.com/originalPost/62fd0c528ee28b2c52af11f2) | ⭐⭐⭐⭐⭐ | 管理 |
+| 093 | [直觉泵和其他思考工具](https://web.okjike.com/originalPost/62fe52ecaf060c1abdcd730f) | ⭐⭐⭐⭐⭐ | 思考工具，哲学 |
 
 
 #### 专栏外站链接
