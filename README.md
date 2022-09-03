@@ -106,6 +106,22 @@ Keep the books flowing
 | 091 | [事实](https://web.okjike.com/originalPost/62fbb97391db4d122c03e1d2) | ⭐⭐⭐⭐ | 个人成长 |
 | 092 | [技术陷阱](https://web.okjike.com/originalPost/62fd0c528ee28b2c52af11f2) | ⭐⭐⭐⭐⭐ | 管理 |
 | 093 | [直觉泵和其他思考工具](https://web.okjike.com/originalPost/62fe52ecaf060c1abdcd730f) | ⭐⭐⭐⭐⭐ | 思考工具，哲学 |
+| 094 | [成长型思维](https://web.okjike.com/originalPost/62ffb0fc188db1d5d00ab1cf) | ⭐⭐⭐⭐ | 个人成长 |
+| 095 | [人月神话](https://web.okjike.com/originalPost/6300ef27188db1d5d029108d) | ⭐⭐⭐⭐⭐ | 软件工程 |
+| 096 | [有解](https://web.okjike.com/originalPost/630251052567e5888a7cb751) | ⭐⭐⭐⭐ | 个人成长 |
+| 097 | [爱，需要学习](https://web.okjike.com/originalPost/6303a6e2e5d141f4e9a37298) | ⭐⭐⭐⭐ | 个人成长 |
+| 098 | [游戏化实战](https://web.okjike.com/originalPost/6304f840820dcc62d4790639) | ⭐⭐⭐⭐ | 产品设计 |
+| 099 | [被讨厌的勇气](https://web.okjike.com/originalPost/630646ff4abc96872b1f9e59) | ⭐⭐⭐⭐⭐ | 哲学 |
+| 100 | [开源法则](https://web.okjike.com/originalPost/630798f53f54b4009e494a35) | ⭐⭐  | IT科普 |
+| 101 | [刷新](https://web.okjike.com/originalPost/6308ec023f54b4009e6a3328) | ⭐⭐⭐⭐ | 创业，传记 |
+| 102 | [学会写作](https://web.okjike.com/originalPost/630a3e768b465739328d70bf) | ⭐⭐⭐⭐ | 写作工具书 |
+| 103 | [人间失格](https://web.okjike.com/originalPost/630b8e0b3f54b4009eac056b) | ⭐⭐⭐⭐⭐  | 小说 |
+| 104 | [有限与无限的游戏](https://web.okjike.com/originalPost/630cdf6d0a21ff772d34b848) | ⭐⭐⭐⭐ | 哲学 |
+| 105 | [活法](https://web.okjike.com/originalPost/630e216b8b46573932eedec9) | ⭐⭐⭐⭐⭐ | 管理学，哲学 |
+| 106 | [禅与摩托车维修艺术](https://web.okjike.com/originalPost/630f83c4820dcc62d4812a8b) | ⭐⭐⭐⭐⭐ | 哲学 |
+| 107 | [机器学习与安全](https://web.okjike.com/originalPost/6310c8200400f9a0f7b144c3) | ⭐⭐⭐| AI安全 |
+| 108 | [Python机器学习与实践](https://web.okjike.com/originalPost/63121c50692ad4bb06d92d86) | ⭐⭐ | 数据挖掘 |
+
 
 
 #### 专栏外站链接
