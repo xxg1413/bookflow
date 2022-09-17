@@ -121,6 +121,20 @@ Keep the books flowing
 | 106 | [禅与摩托车维修艺术](https://web.okjike.com/originalPost/630f83c4820dcc62d4812a8b) | ⭐⭐⭐⭐⭐ | 哲学 |
 | 107 | [机器学习与安全](https://web.okjike.com/originalPost/6310c8200400f9a0f7b144c3) | ⭐⭐⭐| AI安全 |
 | 108 | [Python机器学习与实践](https://web.okjike.com/originalPost/63121c50692ad4bb06d92d86) | ⭐⭐ | 数据挖掘 |
+| 109 | [机器学习](https://web.okjike.com/originalPost/63137015d4818ee92b2213f5) | ⭐⭐⭐| 机器学习 |
+| 110 | [机器学习](https://web.okjike.com/originalPost/6314c34d5569e188fc535f26) | ⭐⭐⭐⭐  | 机器学习 |
+| 111 | [机器学习系统设计](https://web.okjike.com/originalPost/63161b563d0072f40e9954f3) |⭐⭐⭐⭐⭐  | 机器学习 |
+| 112 | [Tensorflow实战](https://web.okjike.com/originalPost/6317691d7c76a78e5547e3f2) | ⭐⭐ | 机器学习 |
+| 113 | [构建实时机器学习系统](https://web.okjike.com/originalPost/6318b9133f5261f55dc96d5c) | ⭐⭐⭐⭐⭐ | 机器学习 |
+| 114 | [深入浅出Pytorch](https://web.okjike.com/originalPost/6319f60c31deb598ec652600) | ⭐⭐⭐⭐  | 机器学习 |
+| 115 | [TensorFlow-实战Google深度学习框架](https://web.okjike.com/originalPost/631b5acd8cd5c60613a72866) | ⭐⭐ | 机器学习 |
+| 116 | [深入理解TensorFlow](https://web.okjike.com/originalPost/631ca4a6447f48ef1359bf9b) | ⭐⭐⭐ | 机器学习 |
+| 117 | [机器学习-Go语言实现](https://web.okjike.com/originalPost/631dfe6f447f48ef137c1510) | ⭐⭐⭐ | 机器学习 |
+| 118 | [面向机器智能TensorFlow实践](https://web.okjike.com/originalPost/631f4c387c76a78e550fd00b) | ⭐⭐⭐⭐ | 机器学习 |
+| 119 | [社交网站的数据挖掘与分析](https://web.okjike.com/originalPost/6320a6713f5261f55d91c748) | ⭐⭐ | 数据挖掘 |
+| 120 | [深度学习推荐系统](https://web.okjike.com/originalPost/6321f48a9355fb50fe9b18de) | ⭐⭐⭐⭐⭐ | 机器学习 |
+| 121 | [Spark高级数据分析](https://web.okjike.com/originalPost/632348cadd66a049acdb03d2) | ⭐⭐⭐ | 机器学习 |
+| 122 | [Spark MLlib机器学习](https://web.okjike.com/originalPost/63249a2e55678ed8ded4bd70) | ⭐⭐ | 机器学习 |
 
 
 
