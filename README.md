@@ -135,7 +135,8 @@ Keep the books flowing
 | 120 | [深度学习推荐系统](https://web.okjike.com/originalPost/6321f48a9355fb50fe9b18de) | ⭐⭐⭐⭐⭐ | 机器学习 |
 | 121 | [Spark高级数据分析](https://web.okjike.com/originalPost/632348cadd66a049acdb03d2) | ⭐⭐⭐ | 机器学习 |
 | 122 | [Spark MLlib机器学习](https://web.okjike.com/originalPost/63249a2e55678ed8ded4bd70) | ⭐⭐ | 机器学习 |
-
+| 123 | [机器学习实用案例解析](https://web.okjike.com/originalPost/6325ecd055678ed8def5cd68) | ⭐⭐⭐ | 机器学习 |
+| 124 | [深度学习视频理解](https://web.okjike.com/originalPost/63273964899ca99252e27779) | ⭐⭐⭐ | 机器学习 |
 
 
 #### 专栏外站链接
@@ -147,7 +148,3 @@ Keep the books flowing
 #### 公众号：P小二
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcvj9w1tm8j309k09kt8n.jpg)
 
-
-#### 即刻：P小二
-
-[P小二](https://okjk.co/IEHolD)
