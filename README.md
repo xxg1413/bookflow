@@ -150,7 +150,7 @@ Keep the books flowing
 | 135 | [大数据时代的算法](https://web.okjike.com/originalPost/6335a88aae6094997df10804) | ⭐⭐⭐ | 算法，机器学习 |
 | 136 | [深入理解XGBoost](https://web.okjike.com/originalPost/63370eb902a1dab96e80fdf3) | ⭐⭐⭐⭐ | 机器学习 |
 | 137 | [《心》上](https://web.okjike.com/originalPost/63385f6e02a1dab96ea1f0bc) | ⭐⭐⭐⭐⭐ | 哲学 |
-| 138 | [《心》下](https://web.okjike.com/originalPost/633996f6e85da270ebe29795) | ⭐⭐⭐⭐⭐ | 哲学 |
+| 137 | [《心》下](https://web.okjike.com/originalPost/633996f6e85da270ebe29795) | ⭐⭐⭐⭐⭐ | 哲学 |
 
 #### 专栏外站链接
 
