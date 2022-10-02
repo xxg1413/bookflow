@@ -137,7 +137,20 @@ Keep the books flowing
 | 122 | [Spark MLlib机器学习](https://web.okjike.com/originalPost/63249a2e55678ed8ded4bd70) | ⭐⭐ | 机器学习 |
 | 123 | [机器学习实用案例解析](https://web.okjike.com/originalPost/6325ecd055678ed8def5cd68) | ⭐⭐⭐ | 机器学习 |
 | 124 | [深度学习视频理解](https://web.okjike.com/originalPost/63273964899ca99252e27779) | ⭐⭐⭐ | 机器学习 |
-
+| 125 | [你干吗在乎别人怎么想？](https://web.okjike.com/originalPost/6328717edc35ce053ea3291a) | ⭐⭐⭐⭐ | 传记 |
+| 126 | [看不见的女性](https://web.okjike.com/originalPost/6329d9bc9355fb50fe61779a) | ⭐⭐⭐⭐⭐ | 自我成长 |
+| 127 | [深度学习方法及应用](https://web.okjike.com/originalPost/632b2ae8d6e23b944ed28ed4) | ⭐⭐⭐ | 机器学习 |
+| 128 | [人工智能中的深度结构学习](https://web.okjike.com/originalPost/632c7d24553522673b8c3b60 | ⭐⭐⭐ | 机器学习 |
+| 129 | [自然语言处理与深度学习-通过C语言模拟](https://web.okjike.com/originalPost/632dc72b9355fb50febc78c8) | ⭐⭐⭐⭐ | 机器学习 |
+| 130 | [实战GAN](https://web.okjike.com/originalPost/632f163155678ed8ded307e9) | ⭐⭐⭐ | 机器学习 |
+| 131 | [基于深度学习的自然语言处理](https://web.okjike.com/originalPost/63306b6af69c43721bf4b104) | ⭐⭐⭐⭐ | 机器学习 |
+| 132 | [自然语言处理—基于预训练模型的方法](https://web.okjike.com/originalPost/6331afc9472b4063fee5eee6) | ⭐⭐⭐⭐ | 机器学习 |
+| 133 | [深度实践OCR](https://web.okjike.com/originalPost/63331445bfd5bbf240512eca) | ⭐⭐⭐ | 机器学习 |
+| 134 | [深入浅出图神经网络](https://web.okjike.com/originalPost/633469f2bfd5bbf24072b30a) | ⭐⭐⭐⭐ | 机器学习 |
+| 135 | [大数据时代的算法](https://web.okjike.com/originalPost/6335a88aae6094997df10804) | ⭐⭐⭐ | 算法，机器学习 |
+| 136 | [深入理解XGBoost](https://web.okjike.com/originalPost/63370eb902a1dab96e80fdf3) | ⭐⭐⭐⭐ | 机器学习 |
+| 137 | [《心》上](https://web.okjike.com/originalPost/63385f6e02a1dab96ea1f0bc) | ⭐⭐⭐⭐⭐ | 哲学 |
+| 138 | [《心》下](https://web.okjike.com/originalPost/633996f6e85da270ebe29795) | ⭐⭐⭐⭐⭐ | 哲学 |
 
 #### 专栏外站链接
 
