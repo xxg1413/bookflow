@@ -151,6 +151,35 @@ Keep the books flowing
 | 136 | [深入理解XGBoost](https://web.okjike.com/originalPost/63370eb902a1dab96e80fdf3) | ⭐⭐⭐⭐ | 机器学习 |
 | 137 | [《心》上](https://web.okjike.com/originalPost/63385f6e02a1dab96ea1f0bc) | ⭐⭐⭐⭐⭐ | 哲学 |
 | 137 | [《心》下](https://web.okjike.com/originalPost/633996f6e85da270ebe29795) | ⭐⭐⭐⭐⭐ | 哲学 |
+| 138 | [在线](https://web.okjike.com/originalPost/633afff77c323828ad47330e) | ⭐⭐⭐⭐ | 商业 |
+| 139 | [灰度决策](https://web.okjike.com/originalPost/633c4f09e3fc8515065c5f14) | ⭐⭐⭐⭐ | 自我成长 |
+| 140 | [上瘾](https://web.okjike.com/originalPost/633d971c532d83046c386c31) | ⭐⭐⭐⭐ | 产品 |
+| 141 | [成长的边界](https://web.okjike.com/originalPost/633eee1ae3fc8515069e1fd6 ) | ⭐⭐⭐⭐ | 自我成长 |
+| 142 | [系统之美](https://web.okjike.com/originalPost/634044a9f920cfe8b7b353c4) | ⭐⭐⭐⭐ | 系统思考 |
+| 143 | [大教堂与集市]( https://web.okjike.com/originalPost/634194a8f920cfe8b7d37df6) | ⭐⭐⭐⭐ | IT科普 |
+| 144 | [别闹了，费曼先生](https://web.okjike.com/originalPost/6342e68ba4b11be5566a47ad ) | ⭐⭐⭐⭐⭐ | 传记 |
+| 145 | [把自己作为方法：与项飚谈话](https://web.okjike.com/originalPost/63443a7ff231bef8d5051760) | ⭐⭐⭐ | 社科 |
+| 146 | [茄工作法图解](https://web.okjike.com/originalPost/63458fec5a8670eca9724f8e) | ⭐⭐⭐⭐ |自我成长 |
+| 147 | [你当像鸟飞往你的山](https://web.okjike.com/originalPost/6346dea28d33d8831f0897da) | ⭐⭐⭐⭐⭐ | 小说  |
+| 148 | [暗时间](https://web.okjike.com/originalPost/634831929f74f9801019cfe4) | ⭐⭐⭐⭐⭐ | 心理学 |
+| 149 | [浪潮之巅](https://web.okjike.com/originalPost/6349854fb9d68370056f6d49) | ⭐⭐⭐⭐⭐ | 商业 |
+| 150 | [我的二本学生](https://web.okjike.com/originalPost/634ad75b0218dfc49b53853a) | ⭐⭐⭐ | 社科 |
+| 151 | [奈飞文化手册](https://web.okjike.com/originalPost/634c29186ab7aab17dc61602) | ⭐⭐⭐⭐⭐ | 商业 |
+| 152 | [穷查理宝典](https://web.okjike.com/originalPost/634d786c280ccb8d5a1c2c45) | ⭐⭐⭐⭐ | 商业，自我成长 |
+| 153 | [杀死一只知更鸟](https://web.okjike.com/originalPost/634ebe05fa9a7ec0fbce16b0) | ⭐⭐⭐⭐⭐ | 小说  |
+| 154 | [黄金时代](https://web.okjike.com/originalPost/63501e3b53c5a9e5accc796b) | ⭐⭐⭐⭐⭐ | 小说 |
+| 155 | [人类简史](https://web.okjike.com/originalPost/63516fa52f10194bc46f64b7) | ⭐⭐⭐⭐⭐ | 社科 |
+| 156 | [未来简史](https://web.okjike.com/originalPost/6352bace4b3bc89c92e92dbf) | ⭐⭐⭐⭐⭐ | 社科 |
+| 157 | [喜剧的秘密-从脱口秀说起](https://web.okjike.com/originalPost/6354113f5d89fc3dde6f1b0c) | ⭐⭐⭐ | 社科 |
+| 158 | [支付战争](https://web.okjike.com/originalPost/63554c20d2663114ad6cec47) | ⭐⭐⭐ | 商业 |
+| 159 | [与开源同行-揭秘PingCAP七年创业实践](https://web.okjike.com/originalPost/63569ef4d2663114ad8e76a2) | ⭐⭐⭐ | 商业 |
+| 160 | [数学的力量](https://web.okjike.com/originalPost/635805714ecd49b9e2a2756b) | ⭐⭐⭐⭐ | 科普，自我成长 |
+| 161 | [Rust实战](https://web.okjike.com/originalPost/635953154ecd49b9e2c00be2) | ⭐⭐⭐⭐ | 编程语言 |
+| 162 | [动手打造深度学习框架](https://web.okjike.com/originalPost/635aa3e7030b75f85866d67f) | ⭐⭐⭐ | AI |
+| 163 | [用Python实现深度学习框架](https://web.okjike.com/originalPost/635bef8c79e5ff83929b3291) | ⭐⭐⭐⭐ | AI |
+
+
+
 
 #### 专栏外站链接
 
