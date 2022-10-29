@@ -175,8 +175,8 @@ Keep the books flowing
 | 159 | [与开源同行-揭秘PingCAP七年创业实践](https://web.okjike.com/originalPost/63569ef4d2663114ad8e76a2) | ⭐⭐⭐ | 商业 |
 | 160 | [数学的力量](https://web.okjike.com/originalPost/635805714ecd49b9e2a2756b) | ⭐⭐⭐⭐ | 科普，自我成长 |
 | 161 | [Rust实战](https://web.okjike.com/originalPost/635953154ecd49b9e2c00be2) | ⭐⭐⭐⭐ | 编程语言 |
-| 162 | [动手打造深度学习框架](https://web.okjike.com/originalPost/635aa3e7030b75f85866d67f) | ⭐⭐⭐ | AI |
-| 163 | [用Python实现深度学习框架](https://web.okjike.com/originalPost/635bef8c79e5ff83929b3291) | ⭐⭐⭐⭐ | AI |
+| 162 | [动手打造深度学习框架](https://web.okjike.com/originalPost/635aa3e7030b75f85866d67f) | ⭐⭐⭐ | 机器学习 |
+| 163 | [用Python实现深度学习框架](https://web.okjike.com/originalPost/635bef8c79e5ff83929b3291) | ⭐⭐⭐⭐ | 机器学习 |
 
 
 
