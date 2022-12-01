@@ -177,6 +177,41 @@ Keep the books flowing
 | 161 | [Rust实战](https://web.okjike.com/originalPost/635953154ecd49b9e2c00be2) | ⭐⭐⭐⭐ | 编程语言 |
 | 162 | [动手打造深度学习框架](https://web.okjike.com/originalPost/635aa3e7030b75f85866d67f) | ⭐⭐⭐ | 机器学习 |
 | 163 | [用Python实现深度学习框架](https://web.okjike.com/originalPost/635bef8c79e5ff83929b3291) | ⭐⭐⭐⭐ | 机器学习 |
+| 164 | [非暴力沟通](https://web.okjike.com/originalPost/635d4cf0030b75f8589e7aa3) | ⭐⭐⭐⭐⭐| 个人成长 |
+| 165 | [毫无意义的工作](https://web.okjike.com/originalPost/635e8be97f80c6f4abfce27b) | ⭐⭐⭐⭐⭐ | 社科 |
+| 166 | [如何阅读一本书](https://web.okjike.com/originalPost/635fee85cca9fd28a11c9a51) | ⭐⭐⭐⭐⭐| 个人成长 |
+| 167 | [自然语言处理技术入门与实战](https://web.okjike.com/originalPost/636287acc3ba181504a04b9b) | ⭐⭐⭐| 机器学习 |
+| 168 | [网络虚拟化技术完全指南](https://web.okjike.com/originalPost/636287acc3ba181504a04b9b) | ⭐| 计算机 |
+| 169 | [Lua游戏开发实践指南](https://web.okjike.com/originalPost/6363e41f8e3ed2ff126b83d0) | ⭐⭐|  游戏开发 |
+| 170 | [百面深度学习](https://web.okjike.com/originalPost/63653586b6f0993718e82143) | ⭐⭐⭐⭐| 机器学习 |
+| 171 | [Go程序设计语言](https://web.okjike.com/originalPost/6366bfee8e3ed2ff12aa2fee) | ⭐⭐⭐⭐ | 编程语言 |
+| 172 | [Go语言高并发与微服务实战](https://web.okjike.com/originalPost/6367d1b2a0ac052d9a4dd9ba) | ⭐⭐⭐| 计算机 |
+| 173 | [Cloud Native Go](https://web.okjike.com/originalPost/636928758e3ed2ff12e05e7a) | ⭐⭐⭐ | 计算机 |
+| 174 | [流畅的Python](https://web.okjike.com/originalPost/636a759032b80bdf1fd170eb) | ⭐⭐⭐⭐⭐| 编程语言 |
+| 175 | [Python网络数据采集](https://web.okjike.com/originalPost/636bcbdaef4f6b1cd420ce9a) | ⭐⭐⭐| 计算机 |
+| 176 | [Python性能分析与优化](https://web.okjike.com/originalPost/636d1b89135f7f376ee9640a) | ⭐⭐⭐⭐ | 编程语言 |
+| 177 | [Flask Web开发：基于Python的Web应用开发实战](https://web.okjike.com/originalPost/636e679f135f7f376e054692) | ⭐⭐⭐⭐| 编程语言 |
+| 178 | [最高学习法](https://web.okjike.com/originalPost/636fc25261fb14b79f40dd1a) | ⭐⭐⭐⭐⭐| 个人成长 |
+| 179 | [干净的数据：数据清洗入门与实践](https://web.okjike.com/originalPost/637112de8dcd2d91981a8ef3) | ⭐⭐⭐⭐| 数据挖掘 |
+| 180 | [Python函数式编程](https://web.okjike.com/originalPost/63726082e0af42e970d2583a) | ⭐⭐⭐⭐ | 编程语言 |
+| 181 | [Serverless架构应用开发：Python实现](https://web.okjike.com/originalPost/6373b2258381497ae8a1fd68) | ⭐⭐⭐⭐| 计算机 |
+| 182 | [深入理解Python特性](https://web.okjike.com/originalPost/6374ee551e99bd2ec85ac751) | ⭐⭐⭐⭐ | 编程语言 |
+| 183 | [Python机器学习经典实例](https://web.okjike.com/originalPost/6376569bb2a703a4ac5635c0) | ⭐⭐ ⭐| 机器学习 |
+| 184 | [学习正则表达式](https://web.okjike.com/originalPost/6377a6eca884dc493fc6202f) | ⭐⭐⭐| 计算机 |
+| 185 | [挑战编程技能：57道程序员功力测试题](https://web.okjike.com/originalPost/6378f2b4122850dd749d79a3) | ⭐⭐| 编程语言 |
+| 186 | [OpenCV计算机视觉编程攻略（第3版）](https://web.okjike.com/originalPost/637a4c90e24fb82e5619db25) | ⭐⭐⭐⭐| 机器学习 |
+| 187 | [精通特征工程](https://web.okjike.com/originalPost/637b9804fc0ff50050507897) | ⭐⭐⭐⭐| 机器学习 |
+| 188 | [C++程序设计实践与技巧 测试驱动开发](https://web.okjike.com/originalPost/637cf073db5e52e302d26603) | ⭐⭐⭐ | 编程语言 |
+| 189 | [Docker经典实例](https://web.okjike.com/originalPost/637e38dbca9ff8a0c766e35b) | ⭐⭐⭐⭐| 计算机 |
+| 190 | [进化：从孤胆极客到高效团队](https://web.okjike.com/originalPost/637f9324f267af5b0790fc62) | ⭐⭐⭐⭐⭐| 管理 |
+| 191 | [优秀的叛逆者：引领组织变革的力量](https://web.okjike.com/originalPost/6380d37626ba87db89c10afe) | ⭐⭐⭐⭐⭐| 个人成长 |
+| 192 | [我们要自学](https://web.okjike.com/originalPost/638236beebe281f4bb76926a) | ⭐⭐⭐| 个人成长 |
+| 193 | [Web开发权威指南](https://web.okjike.com/originalPost/63837ebf6dc0dcd7cd25055c) | ⭐⭐⭐| 计算机 |
+| 194 | [Web API的设计与开发](https://web.okjike.com/originalPost/6384c4024e617052a18e398c) | ⭐⭐⭐⭐| 计算机 |
+| 195 | [修改软件的艺术：构建易维护代码的9条最佳实践](https://web.okjike.com/originalPost/63862bf56dc0dcd7cd6a045e) | ⭐⭐⭐⭐| 计算机 |
+| 196 | [大道至易](https://web.okjike.com/originalPost/63877cf22b8ce4dab2eb7548) | ⭐⭐⭐⭐⭐| 计算机架构 |
+| 197 | [科学的极致：漫谈人工智能](https://web.okjike.com/originalPost/6388cb715114e95d2aed60f9) | ⭐⭐⭐⭐⭐| 机器学习 |
+
 
 
 
