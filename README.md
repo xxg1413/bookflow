@@ -211,8 +211,29 @@ Keep the books flowing
 | 195 | [修改软件的艺术：构建易维护代码的9条最佳实践](https://web.okjike.com/originalPost/63862bf56dc0dcd7cd6a045e) | ⭐⭐⭐⭐| 计算机 |
 | 196 | [大道至易](https://web.okjike.com/originalPost/63877cf22b8ce4dab2eb7548) | ⭐⭐⭐⭐⭐| 计算机架构 |
 | 197 | [科学的极致：漫谈人工智能](https://web.okjike.com/originalPost/6388cb715114e95d2aed60f9) | ⭐⭐⭐⭐⭐| 机器学习 |
-
-
+| 198 | [用户思维+：好产品让用户为自己尖叫](https://web.okjike.com/originalPost/638a1c5d82742179e6b197bc) | ⭐⭐⭐⭐| 产品 |
+| 199 | [走近2050：注意力、互联网与人工智能](https://web.okjike.com/originalPost/638b6fac2b8ce4dab24fa322) | ⭐⭐⭐⭐⭐| 机器学习，科普 |
+| 200 | [刻意练习](https://web.okjike.com/originalPost/638cc2d57db28a9a6579b1ba) | ⭐⭐⭐⭐| 个人成长 |
+| 201 | [冥想](https://web.okjike.com/originalPost/638e0302320c271f7decf4c1) | ⭐⭐⭐⭐| 个人成长 |
+| 202 | [万物原理](https://web.okjike.com/originalPost/638f593b39579e49db252416) | ⭐⭐⭐⭐⭐| 物理，科普 |
+| 203 | [真人不露相](https://web.okjike.com/originalPost/6390b7a7d8adbbd1e4076e09) | ⭐⭐⭐⭐| 小说 |
+| 204 | [人工智能](https://web.okjike.com/originalPost/63921034fb4fd056649649db) | ⭐⭐⭐| 机器学习，科普 |
+| 205 | [亲密关系](https://web.okjike.com/originalPost/6393593adc5954cdf5d933c8) | ⭐⭐⭐ | 个人成长 |
+| 206 | [学习究竟是什么](https://web.okjike.com/originalPost/63949ce44cc2d91fdc6f0b3a) | ⭐⭐⭐⭐| 个人成长 |
+| 207 | [相对论究竟是什么](https://web.okjike.com/originalPost/6395fca9331755ff6aff8bc0) | ⭐⭐⭐⭐| 个人成长 |
+| 208 | [可解释人工智能导论](https://web.okjike.com/originalPost/63974f8f3083235d38189418) | ⭐⭐⭐⭐⭐| 机器学习 |
+| 209 | [C++ 20 高级编程](https://web.okjike.com/originalPost/6398954fb6e87efcf50bf948) | ⭐⭐⭐⭐| 编程语言 |
+| 210 | [出众：从改变习惯开始](https://web.okjike.com/originalPost/6399ee0fdc5954cdf56b66e6) | ⭐⭐ | 个人成长 |
+| 211 | [傅雷家书](https://web.okjike.com/originalPost/639b411d4cc2d91fdc00f8c2) | ⭐⭐⭐⭐⭐ | 个人成长 |
+| 212 | [编译原理](https://web.okjike.com/originalPost/639c900d2a8f1b98a4610665) | ⭐⭐⭐⭐⭐ | 计算机 |
+| 213 | [随椋鸟飞行](https://web.okjike.com/originalPost/639de104f3698046b7462d18) | ⭐⭐⭐⭐ | 物理，科普 |
+| 214 | [网络游戏核心技术与实战](https://web.okjike.com/originalPost/639f27d9daa4adee6057408e) | ⭐⭐⭐ | 计算机 |
+| 215 | [并行程序设计](https://web.okjike.com/originalPost/63a1c945f4d74c1eed39a2fc) | ⭐⭐ | 计算机 |
+| 216 | [高性能计算](https://web.okjike.com/originalPost/63a1ca6160f43c294d3f9d5a) | ⭐⭐ | 计算机 |
+| 217 | [Cuda C编程权威指南](https://web.okjike.com/originalPost/63a32cc03083235d381d17b4) | ⭐⭐ | 计算机 |
+| 218 | [基于C语言自制编程语言](https://web.okjike.com/originalPost/63a47c4118ea29ce5bfd8511) | ⭐⭐⭐⭐ | 计算机 |
+| 219 | [Linux系统架构和应用技巧](https://web.okjike.com/originalPost/63a5ce899691dc6e849ccab3) | ⭐⭐⭐⭐ | 计算机 |
+| 220 | [微服务设计](https://web.okjike.com/originalPost/63a71ea6c808c200c0d2e368) | ⭐⭐⭐⭐ | 计算机，架构 |
 
 
 
